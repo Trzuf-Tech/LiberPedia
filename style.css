@@ -1,0 +1,16 @@
+body{
+   background-color:  rgb(43, 43, 43);;
+   color: ;
+}
+
+a{
+    font-size: 25px;
+    color: #ffffff;
+}
+
+#nav-logo{
+    width: 200x;
+    height: 400px;
+    font-size: 20px;
+    float: left;
+}
